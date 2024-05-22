@@ -5,7 +5,7 @@ library(terra)
 #' Function removed missing data rows and converts the UTM Time zone coords to Lat/Long
 preprocess <- function() {
   
-    dataset_0 <- read_csv("../data/raw/crimedata_csv_AllNeighbourhoods_2024.csv")
+    dataset_0 <- read_csv("./data/raw/crimedata_csv_AllNeighbourhoods_2024.csv")
   
   # Remove rows with missing values
   dataset_0 <- na.omit(dataset_0)

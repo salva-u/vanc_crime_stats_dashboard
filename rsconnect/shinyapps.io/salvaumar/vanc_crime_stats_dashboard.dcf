@@ -1,0 +1,13 @@
+name: vanc_crime_stats_dashboard
+title:
+username: salvaumar
+account: salvaumar
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12049185
+bundleId: 8646179
+url: https://salvaumar.shinyapps.io/vanc_crime_stats_dashboard/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: individual-assignment.md|LICENSE.md|notebooks/Data Preprocess.ipynb|README.md

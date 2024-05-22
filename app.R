@@ -5,7 +5,8 @@ library(thematic)
 library(readr)
 library(dplyr)
 library(leaflet)
-source("Functions.R")
+source("src/Functions.R")
+
 
 # Load and preprocess data
 cleaned_data <- preprocess()
