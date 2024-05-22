@@ -29,7 +29,8 @@ To install and run the Vancouver Police Department Crimes Navigation Tool, follo
 install.packages(c("terra", "leaflet", "dplyr", "readr", "thematic", "ggplot2", "shiny"))
 ```
 3. Make sure you have R and RStudio installed on your machine.
-4. Run the `app.R` file in RStudio. (Optional: If you do not want to go the Rstudio route run the following command in the cloned folder in ther terminal:
-```bash R -e "shiny::runApp('src')"```)
-5. The dashboard will open in your default web browser, allowing you to interact with the visualizations and explore the crime data.
+4. Run the `app.R` file in RStudio.
+  (Optional: If you do not want to go the Rstudio route run the following command in the cloned folder in ther terminal:
+  ```bash R -e "shiny::runApp('src')"``` )
+6. The dashboard will open in your default web browser, allowing you to interact with the visualizations and explore the crime data.
 
