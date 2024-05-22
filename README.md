@@ -21,5 +21,5 @@ The [dataset](https://geodash.vpd.ca/opendata/) used in the Vancouver Police Dep
 
 # Dashboard Interface 
 
-<img src="img/dash_interface.png" alt="Logo" align="right" width="200" height="200">
-Dashboard can be accessed [here](https://salvaumar.shinyapps.io/vanc_crime_stats_dashboard/).
+<img src="img/dash_interface.png" alt="Interface" >
+Dashboard can be accessed: https://salvaumar.shinyapps.io/vanc_crime_stats_dashboard/
