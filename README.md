@@ -19,18 +19,7 @@ Note: Video was large so could not add it to GitHub.
 
 The [dataset](https://geodash.vpd.ca/opendata/) used in the Vancouver Police Department Crimes Navigation Tool spans from 2018 to 2024 and is extracted from the PRIME BC Police Records Management System (RMS). The data undergoes specific filters, categorizations, and conditions to ensure its relevance to public safety and compliance with the BC Freedom of Information & Protection of Privacy Act (BC FIPPA). It includes a broad category of 'Offence Against a Person', encompassing various violent incidents while maintaining privacy by aggregating multiple subcategories. Property incidents offer a more granular breakdown, with categories such as 'Other Theft' covering diverse property-related offenses. The data primarily consists of 'Founded' incidents, indicating violations confirmed after police investigation. Users are cautioned against using the information to assess specific safety levels, as the data's aggregate nature may mask variations in subcategories. For further details, users are encouraged to refer to the Vancouver Police Department's [guidelines](https://geodash.vpd.ca/docs/VPD_GeoDASH_FAQs.pdf).
 
-# Installation Instructions
+# Dashboard Interface 
 
-To install and run the Vancouver Police Department Crimes Navigation Tool, follow these steps:
-
-1. Clone this repository to your local machine.
-2. Install the required R packages mentioned in the `env.lock` file.
-```R
-install.packages(c("terra", "leaflet", "dplyr", "readr", "thematic", "ggplot2", "shiny"))
-```
-3. Make sure you have R and RStudio installed on your machine.
-4. Run the `app.R` file in RStudio.
-  (Optional: If you do not want to go the Rstudio route run the following command in the cloned folder in ther terminal:
-  ```bash R -e "shiny::runApp('src')"``` )
-6. The dashboard will open in your default web browser, allowing you to interact with the visualizations and explore the crime data.
-
+<img src="img/dash_interface.png" alt="Logo" align="right" width="200" height="200">
+Dashboard can be accessed [here](https://salvaumar.shinyapps.io/vanc_crime_stats_dashboard/).
