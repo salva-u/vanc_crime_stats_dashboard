@@ -5,11 +5,11 @@
 
 **Target audience:** This data visualization app is designed for law enforcement agencies, urban planners, researchers, and residents interested in exploring crime data in Vancouver.
 
-Understanding patterns and trends in crime data is crucial for various stakeholders in Vancouver, including law enforcement agencies, urban planners, researchers, and concerned residents. By providing an interactive tool to navigate and analyze crime data, this dashboard aims to empower users with insights into crime incidents across neighborhoods, types of crimes, and temporal patterns. By understanding these patterns, stakeholders can make informed decisions to improve public safety, allocate resources effectively, and develop strategies for crime prevention
+Understanding patterns and trends in crime data is crucial for various stakeholders in Vancouver, including law enforcement agencies, urban planners, researchers, and concerned residents. By providing an interactive tool to navigate and analyze crime data, this dashboard aims to empower users with insights into crime incidents across neighbourhoods, types of crimes, and temporal patterns. By understanding these patterns, stakeholders can make informed decisions to improve public safety, allocate resources effectively, and develop strategies for crime prevention
 
 # App Description
 
-The Vancouver Police Department Crimes Navigation Tool is a web-based application designed to provide users with interactive visualizations and analytics of crime data in Vancouver. Users can explore various aspects of crime incidents such as their distribution across neighborhoods, types of crimes, and temporal patterns. The app allows users to filter the data based on different criteria such as year, month, day, and neighborhood, providing a comprehensive view of crime trends in the city.
+The Vancouver Police Department Crimes Navigation Tool is a web-based application designed to provide users with interactive visualizations and analytics of crime data in Vancouver. Users can explore various aspects of crime incidents such as their distribution across neighbourhoods, types of crimes, and temporal patterns. The app allows users to filter the data based on different criteria such as year, month, day, and neighborhood, providing a comprehensive view of crime trends in the city.
 
 [Dashboard Video Walkthrough](https://drive.google.com/file/d/1m0Xf02C-yFpDuNxGZm94jBUWnQq9aLGL/view?usp=sharing)
 
